@@ -1,0 +1,14 @@
+layout_spectrum: 0.14148805616423488
+typography_spectrum: 0.032712185056880116
+color:
+  brandStrength: 0.6124547405634075
+  lightness: 0.33854805678129196
+  saturation: 0.16644962411373854
+  rhythmicContrast: 0.058109552366659045
+  brandColors:
+    - '#004358'
+    - '#1F8A70'
+    - '#BEDB39'
+    - '#FFE11A'
+    - '#FD7400'
+name: SurveyVillage
